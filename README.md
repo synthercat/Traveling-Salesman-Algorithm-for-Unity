@@ -4,7 +4,7 @@
 ## Status : Testing fun project
 
 ### Description
-This is my own implementation of solving the [Traveling Saleslman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem). I thought it would make a good excirsise to see if I could figure out an algorithm that solves this without refering to any known solutions.
+This is my own implementation of solving the [Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem). I thought it would make a good exercise to see if I could figure out an algorithm that solves this without referring to any known solutions.
 
 ### Screenshot
 ![tsp01](https://user-images.githubusercontent.com/15571710/33559594-fa772aea-d915-11e7-9887-37a4f95417ec.png)
@@ -23,4 +23,4 @@ I also included a complete example in the `TSP.unitypackage` file
 I do not suggest solving it with more than 10 stops as it will get the app stuck for a bit.
 
 ### Note
-This is not an optimized solution. It's just something I did for fun (and I did had fun!). It helped me realise how to solve problems with loops that take a long time to finish. Those solutions are not part of that version though, they were implemented on another project of mine.
+This is not an optimized solution. It's just something I did for fun (and I did had fun!). It helped me figure out how to solve problems with loops that take a long time to finish. Those solutions are not part of that version though, they were implemented on another project of mine.
